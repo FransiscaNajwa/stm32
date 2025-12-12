@@ -1,0 +1,6 @@
+../Core/Src/main.c:16:5:main	80	static
+../Core/Src/main.c:44:6:StartLED1	16	static
+../Core/Src/main.c:60:6:StartLED2	16	static
+../Core/Src/main.c:76:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:89:6:SystemClock_Config	72	static
+../Core/Src/main.c:122:6:Error_Handler	4	static,ignoring_inline_asm

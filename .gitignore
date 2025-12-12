@@ -1,0 +1,18 @@
+# Ignore STM32CubeIDE and firmware folders
+STM32CubeIDE_1.19.0/
+STM32CubeIDE*/
+STM32Cube_FW_*/
+
+# Ignore compressed files
+*.zip
+*.rar
+*.exe
+
+# Ignore build files
+*.o
+*.elf
+*.bin
+*.log
+
+# Ignore IDE metadata
+.metadata/

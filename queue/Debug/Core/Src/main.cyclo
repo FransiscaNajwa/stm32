@@ -1,0 +1,6 @@
+../Core/Src/main.c:28:5:main	1
+../Core/Src/main.c:54:6:StartProducerTask	1
+../Core/Src/main.c:65:6:StartConsumerTask	3
+../Core/Src/main.c:90:6:SystemClock_Config	3
+../Core/Src/main.c:113:13:MX_GPIO_Init	1
+../Core/Src/main.c:130:6:Error_Handler	1
